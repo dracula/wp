@@ -2,13 +2,13 @@
 
 #### Install using WP repo
 
-If you are a WP user, you can install the plugin and keep up to date by searching from your WP admin and installing:
+If you are a WP user, you can install the plugin and keep up to date by searching for "Dracula" from your WP admin and installing:
 
     https://wordpress.org/plugins/dracula/
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/bhadaway/wp/dracula.zip) option and unzip them.
+Download [dracula.zip](https://github.com/dracula/wp/dracula.zip) and unzip it.
 
 #### Activating plugin
 

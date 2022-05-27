@@ -1,6 +1,6 @@
 # Dracula for [WP](https://wordpress.org/)
 
-> A dark theme for [WP](https://wordpress.org/).
+> A dark plugin for [WP](https://wordpress.org/).
 
 ![Screenshot](./screenshot.png)
 
@@ -14,7 +14,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 | [![Bryan Hadaway](https://github.com/bhadaway.png?size=100)](https://github.com/bhadaway) |
 | ----------------------------------------------------------------------------------------- |
-| [Bryan Hadaway](https://github.com/bhadaway)                                                |
+| [Bryan Hadaway](https://github.com/bhadaway)                                              |
 
 ## Community
 
