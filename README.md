@@ -24,4 +24,4 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## License
 
-[Public Domain](./license)
+[Public Domain](./LICENSE)
