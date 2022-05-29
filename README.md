@@ -1,6 +1,6 @@
 # Dracula for [WP](https://wordpress.org/)
 
-> A dark plugin for [WP](https://wordpress.org/).
+> A dark theme for [WP](https://wordpress.org/).
 
 ![Screenshot](./screenshot.png)
 
@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/wp](https://draculatheme.com/
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/wp/graphs/contributors).
 
 | [![Bryan Hadaway](https://github.com/bhadaway.png?size=100)](https://github.com/bhadaway) |
 | ----------------------------------------------------------------------------------------- |
