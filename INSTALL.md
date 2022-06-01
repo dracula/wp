@@ -8,7 +8,7 @@ If you are a WP user, you can install the plugin and keep up to date by searchin
 
 #### Install manually
 
-Download [dark-code.zip](https://github.com/dracula/wp/dark-code.zip) and unzip it.
+Download [dark-code.zip](https://downloads.wordpress.org/plugin/dark-code.zip) and unzip it.
 
 #### Activating plugin
 
